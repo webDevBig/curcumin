@@ -1,0 +1,40 @@
+
+@font-face {
+    font-family: AvenirNextLTPro-Bold;
+    src: url("../font/AvenirNextLTPro-Bold.otf");
+}
+
+@font-face {
+    font-family: AvenirNextLTPro-It;
+    src: url("../font/AvenirNextLTPro-It.otf");
+}
+
+@font-face {
+    font-family: AvenirNextLTPro-Regular;
+    src: url("../font/AvenirNextLTPro-Regular.otf");
+}
+
+@font-face {
+    font-family: AvenirNext-DemiBold;
+    src: url("../font/AvenirNext-DemiBold.ttf");
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: local('Avenir Next Medium'), local('Avenir-Next-Medium'),
+        url('../font/AvenirNextCyr-Medium.woff2') format('woff2'),
+        url('../font/AvenirNextCyr-Medium.woff') format('woff'),
+        url('../font/AvenirNextCyr-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: Helvetica-Bold;
+    src: url("../font/Helvetica-Font/Helvetica-Bold.ttf");
+}
+@font-face {
+    font-family: Helvetica;
+    src: url("../font/Helvetica-Font/Helvetica.ttf");
+}
